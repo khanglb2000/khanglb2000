@@ -2,7 +2,7 @@
 
 • I have experience with Typescript, React, Tailwind, Ant Design, Bootstrap.
 
-• I've studied Java, C, C++
+• I've studied Java, C, C#
 
 • Visit <a href="https://khang-me.onrender.com/" alt="Profile Page" target="_blank">my page</a>.
 
@@ -33,8 +33,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
@@ -43,7 +41,7 @@
 &nbsp;
 
 <br>
-<h2 align="center">🔎 GitHub Stats 🔍</h2>
+<h2 align="center">📈 GitHub Stats 📈</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -56,7 +54,7 @@
 </div>
 
 <br>
-<h2 align="center">📈 Where to find me 📈</h2>
+<h2 align="center">🔎 Where to find me 🔍</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
